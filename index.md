@@ -14,8 +14,8 @@ layout: default
 
 <br>
 
-  1. {% include 04-lists.md %}
+- {% include 04-lists.md %}
 
 <br>
 
-  2. {% include 05-emphasis.md %}
+- {% include 05-emphasis.md %}
